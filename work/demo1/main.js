@@ -1,0 +1,1 @@
+toast("剪贴板内容为ddds:" + getClip());

@@ -3,6 +3,8 @@ const common = require("../../common/common");
 
 var qqmsg={};
 
+var test11;
+
 function main(options){
     options=options||{};
     common.resetConsole();
